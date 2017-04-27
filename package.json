@@ -1,0 +1,23 @@
+{
+  "name": "careex",
+  "version": "1.0.0",
+  "description": "Project template for email based on mjml",
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-mjml": "^2.2.0",
+    "gulp-notify": "^3.0.0"
+  }
+}

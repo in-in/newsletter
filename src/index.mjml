@@ -1,0 +1,21 @@
+<mjml>
+  <mj-head>
+  <mj-title></mj-title>
+  <mj-attributes>
+  
+  </mj-attributes>
+  </mj-head>
+  <mj-body>
+  <mj-container>
+
+    <mj-hero>
+      <mj-hero-content>
+        <mj-text>
+          On Air
+        </mj-text>
+      </mj-hero-content>
+    </mj-hero>
+
+  </mj-container>
+  </mj-body>
+</mjml>
