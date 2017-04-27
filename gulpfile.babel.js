@@ -3,10 +3,15 @@ import del from 'del';
 import browserSync from 'browser-sync';
 import mjml from 'gulp-mjml';
 import notify from 'gulp-notify';
+import imagemin from 'gulp-imagemin';
 
 const paths = {
   dist: 'dist/',
   src: 'src/',
+  images: {
+    get src () { return `${paths.src}assets/images/*.*`; },
+    get dist () { return `${paths.dist}assets/images/`; }
+  }
 };
 
 const server = browserSync.create();
@@ -29,20 +34,24 @@ function serve(done) {
 
 const clean = () => del([paths.dist]);
 
+const images = () => {
+  return gulp.src(paths.images.src)
+    .pipe(imagemin())
+    .pipe(gulp.dest(paths.images.dist))
+};
+
 const build = () => {
   return gulp.src(paths.src + '*.mjml')
     .pipe(mjml())
-    .on('error', notify.onError(function(err) {
-      return {
-        title: 'mjml',
-        message: err.message
-      }
-    }))
+    .on('error', notify.onError())
     .pipe(gulp.dest(paths.dist))
 };
 
-const watch = () => gulp.watch(paths.src, gulp.series(build, reload));
+const watch = () => {
+  gulp.watch(paths.src, gulp.series(build, reload));
+  gulp.watch(paths.images.src, gulp.series(images, reload));
+}
 
-const dev = gulp.series(clean, build, serve, watch);
+const dev = gulp.series(clean, build, images, serve, watch);
 
 export default dev;

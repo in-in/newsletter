@@ -1,21 +1,53 @@
 <mjml>
   <mj-head>
-  <mj-title></mj-title>
-  <mj-attributes>
-  
-  </mj-attributes>
+    <mj-title>Hello World</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+    
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif" />
+      <mj-text font-weight="300", font-size="16" color="#616161" line-height="24px" />
+      <mj-section padding="0" />
+    </mj-attributes>
   </mj-head>
   <mj-body>
-  <mj-container>
-
-    <mj-hero>
-      <mj-hero-content>
-        <mj-text>
-          On Air
-        </mj-text>
-      </mj-hero-content>
-    </mj-hero>
-
-  </mj-container>
+    <mj-container>
+      <mj-section background-color="pink">
+        <mj-column width="60%">
+          <mj-text font-size='10px'>
+            Your bimonthly intake of AI, machine learning and bots is here!
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="right">
+            [[PERMALINK]]
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="skyblue">
+        <mj-column width="100%">
+          <mj-image href="https://github.com/in-in" src="assets/images/city-01.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="gold">
+        <mj-column width="100%">
+          <mj-text align="center">
+            Your bimonthly intake of AI, machine learning and bots is here!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="seagreen">
+        <mj-column width="45%">
+          <mj-text align="center" font-weight="500" padding="0" font-size="18px">
+            ISSUE #18 - DECEMBER
+          </mj-text>
+          <mj-divider border-width="2px" border-color="#616161" />
+          <mj-divider border-width="2px" border-color="#616161" width="45%" />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section padding-top="30px" background-color="tan">
+        
+      </mj-section>
+    </mj-container>
   </mj-body>
 </mjml>

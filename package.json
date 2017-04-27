@@ -8,7 +8,8 @@
     ]
   },
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "images": "gulp images"
   },
   "license": "ISC",
   "devDependencies": {
@@ -17,6 +18,7 @@
     "browser-sync": "^2.18.8",
     "del": "^2.2.2",
     "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-imagemin": "^3.2.0",
     "gulp-mjml": "^2.2.0",
     "gulp-notify": "^3.0.0"
   }
