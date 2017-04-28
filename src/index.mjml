@@ -25,7 +25,7 @@
       </mj-section>
       <mj-section background-color="skyblue">
         <mj-column width="100%">
-          <mj-image href="https://github.com/in-in" src="assets/images/city-01.png" />
+          <mj-image href="https://recast.ai/" src="assets/images/city-01.png" />
         </mj-column>
       </mj-section>
       <mj-section background-color="gold">
@@ -46,8 +46,136 @@
       </mj-section>
       
       <mj-section padding-top="30px" background-color="tan">
-        
+        <mj-column width="100%">
+          <mj-text>
+            <p>Hello hello!</p>
+            <p>Don't panic. This is still the same newsletter, I'm still me. We just updated the design to make it sleeker and easier to read!</p>
+            <p>Without further ado, let's dive into AI for medecine, sound recognition models and bot building!</p>
+          </mj-text>
+        </mj-column>
       </mj-section>
+      
+      <mj-section background-color="coral">
+        <mj-column width="11%">
+          <mj-image
+            src="assets/images/justine.png"
+            href="https://twitter.com/MrJustaine"
+            width="70px"
+            padding-right="0"
+            padding-left="25px"
+            align="left"
+          />
+        </mj-column>
+        <mj-column width="89%">
+          <mj-text padding="0 25px">
+            <p style="color: #bdbdbd; line-height: 9px">
+              Justine -
+              <a href="https://recast.ai/" style="color: #3498DB;">Recast.AI</a>
+              team
+            </p>
+            <p style="font-style: italic; color: #bdbdbd">Your light in the storm</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="dodgerblue">
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="tomato">
+        <mj-column width="75%">
+          <mj-text>
+            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
+              <a href="https://blog.recast.ai/module-faster-shadow/" style="color: #3498DB; text-decoration: none;">Modules, are you faster than your shadows?</a>
+            </h3>
+            <p style="font-size: 14px">As a developer, should you use modules or code this bit of feature by yourself? Let's find out.</p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image
+            src="assets/images/183.png"
+            href="https://blog.recast.ai/module-faster-shadow/"
+            width="100%"
+          />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="gold">
+        <mj-column width="75%">
+          <mj-text>
+            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
+              <a href="http://projects.csail.mit.edu/soundnet/" style="color: #3498DB; text-decoration: none;">
+                SoundNet - Learning sound representations from unlabeled video
+              </a>
+            </h3>
+            <p style="font-size: 14px">
+              With a deep convolutional network created for sound recognition, the model recognizes objects and scenes only from sounds.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image
+            src="assets/images/190.png"
+            href="https://blog.recast.ai/module-faster-shadow/"
+            width="100%"
+          />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="cornflowerblue">
+        <mj-column width="75%">
+          <mj-text>
+            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
+              <a href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750" 
+              style="color: #3498DB; text-decoration: none;">
+                 Three challenges for artificial intelligence in medicine
+              </a>
+            </h3>
+            <p style="font-size: 14px">
+              Brandon Ballinger takes us back in time with an historic of AI in medecine and where it could today make a difference.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image
+            src="assets/images/1891.png"
+            href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750"
+            width="100%"
+          />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section background-color="indianred">
+        <mj-column width="75%">
+          <mj-text>
+            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
+              <a href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/" 
+              style="color: #3498DB; text-decoration: none;">
+                 How to choose the best channel for your bot: the ultimate cheat sheet
+              </a>
+            </h3>
+            <p style="font-size: 14px">
+              Bot channels do not offer the same features: here’s an analysis of a few to help you figure everything out.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image
+            src="assets/images/184.jpg"
+            href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/"
+            width="100%"
+          />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#e0e0e0" />
+        </mj-column>
+      </mj-section>
+      
     </mj-container>
   </mj-body>
 </mjml>
