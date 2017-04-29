@@ -7,6 +7,7 @@
       <mj-all font-family="Roboto, Helvetica, sans-serif" />
       <mj-text font-weight="300", font-size="16" color="#616161" line-height="24px" />
       <mj-section padding="0" />
+      <mj-class name="mailDivider" border-width="1px" border-color="#e0e0e0" />
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -80,7 +81,7 @@
       
       <mj-section background-color="dodgerblue">
         <mj-column width="100%">
-          <mj-divider border-width="1px" border-color="#E0E0E0" />
+          <mj-divider mj-class="mailDivider" />
         </mj-column>
       </mj-section>
       
@@ -172,7 +173,77 @@
       
       <mj-section>
         <mj-column width="100%">
-          <mj-divider border-width="1px" border-color="#e0e0e0" />
+          <mj-divider mj-class="mailDivider" />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0">
+            <h3 style="font-weight: bold">
+              <a href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f"
+                style="color: #3498DB; text-decoration: none;">
+              What are the differences between AI, machine learning, NLP, and deep learning?
+              </a>
+            </h3>
+          </mj-text>
+          <mj-image
+            width="600px"
+            padding-top="0"
+            src="assets/images/186.jpg"
+            href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f" />
+          <mj-text>
+            <p style="font-size: 14px">
+              So many big words in a booming market, let's take a step back and redefine which is what, and which does what.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0">
+            <h3 style="font-weight: bold">
+              <a href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7"
+                style="color: #3498DB; text-decoration: none;">
+              The implications of AI on the future chatbots
+              </a>
+            </h3>
+          </mj-text>
+          <mj-image
+            width="600px"
+            padding-top="0"
+            src="assets/images/187.jpg"
+            href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7" />
+          <mj-text>
+            <p style="font-size: 14px">
+              Artificial intelligence, machine learning, neural networks: how can they be used with chatbots? What does the future hold?
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0">
+            <h3 style="font-weight: bold">
+              <a href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f"
+                style="color: #3498DB; text-decoration: none;">
+                NLP and the coming content explosion
+              </a>
+            </h3>
+          </mj-text>
+          <mj-image
+            width="600px"
+            padding-top="0"
+            src="assets/images/188.png"
+            href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f" />
+          <mj-text>
+            <p style="font-size: 14px">
+              Natural language powered interfaces are taking the world by storm, and we can't help but wonder how they'll change the way we deliver, read and share content.
+            </p>
+          </mj-text>
+          <mj-divider mj-class="mailDivider" />
         </mj-column>
       </mj-section>
       
