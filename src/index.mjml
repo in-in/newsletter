@@ -1,18 +1,8 @@
 <mjml>
-  <mj-head>
-    <mj-title>Hello World</mj-title>
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
-    
-    <mj-attributes>
-      <mj-all font-family="Roboto, Helvetica, sans-serif" />
-      <mj-text font-weight="300", font-size="16" color="#616161" line-height="24px" />
-      <mj-section padding="0" />
-      <mj-class name="mailDivider" border-width="1px" border-color="#e0e0e0" />
-    </mj-attributes>
-  </mj-head>
+  <mj-include path="src/head.mjml" />
   <mj-body>
     <mj-container>
-      <mj-section background-color="pink">
+      <mj-section>
         <mj-column width="60%">
           <mj-text font-size='10px'>
             Your bimonthly intake of AI, machine learning and bots is here!
@@ -20,23 +10,23 @@
         </mj-column>
         <mj-column width="40%">
           <mj-text align="right">
-            [[PERMALINK]]
+            <a href="https://recast.ai/" style="color: #bdbdbd;">Recast.AI</a>
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="skyblue">
+      <mj-section>
         <mj-column width="100%">
           <mj-image href="https://recast.ai/" src="assets/images/city-01.png" />
         </mj-column>
       </mj-section>
-      <mj-section background-color="gold">
+      <mj-section>
         <mj-column width="100%">
           <mj-text align="center">
             Your bimonthly intake of AI, machine learning and bots is here!
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="seagreen">
+      <mj-section>
         <mj-column width="45%">
           <mj-text align="center" font-weight="500" padding="0" font-size="18px">
             ISSUE #18 - DECEMBER
@@ -46,7 +36,7 @@
         </mj-column>
       </mj-section>
       
-      <mj-section padding-top="30px" background-color="tan">
+      <mj-section padding-top="30px">
         <mj-column width="100%">
           <mj-text>
             <p>Hello hello!</p>
@@ -56,7 +46,7 @@
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="coral">
+      <mj-section>
         <mj-column width="11%">
           <mj-image
             src="assets/images/justine.png"
@@ -79,13 +69,13 @@
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="dodgerblue">
+      <mj-section>
         <mj-column width="100%">
           <mj-divider mj-class="mailDivider" />
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="tomato">
+      <mj-section>
         <mj-column width="75%">
           <mj-text>
             <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
@@ -103,7 +93,7 @@
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="gold">
+      <mj-section>
         <mj-column width="75%">
           <mj-text>
             <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
@@ -125,7 +115,7 @@
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="cornflowerblue">
+      <mj-section>
         <mj-column width="75%">
           <mj-text>
             <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
@@ -148,7 +138,7 @@
         </mj-column>
       </mj-section>
       
-      <mj-section background-color="indianred">
+      <mj-section>
         <mj-column width="75%">
           <mj-text>
             <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
@@ -244,6 +234,47 @@
             </p>
           </mj-text>
           <mj-divider mj-class="mailDivider" />
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+        <mj-column width="65%">
+          <mj-image
+            align="left"
+            width="150px"
+            src="assets/images/recast-ai-01.png"
+            href="https://recast.ai/" />
+        </mj-column>
+        <mj-column width="35%">
+          <mj-table>
+            <tr>
+              <td>
+                <a href="https://twitter.com/RecastAI">
+                  <img width="25px" src="assets/images/twitter.png" />
+                </a>
+              </td>
+              <td>
+                <a href="https://www.facebook.com/RecastAI/">
+                  <img width="25px" src="assets/images/facebook.png" />
+                </a>
+              </td>
+              <td>
+                <a href="https://medium.com/@RecastAI">
+                  <img width="25px" src="assets/images/medium.png" />
+                </a>
+              </td>
+              <td>
+                <a href="https://www.youtube.com/channel/UCA0UZlR8crpgwFiVaSTbVWw">
+                  <img width="25px" src="assets/images/youtube.png" />
+                </a>
+              </td>
+              <td>
+                <a href="https://plus.google.com/+RecastAi">
+                  <img width="25px" src="assets/images/google.png" />
+                </a>
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
       

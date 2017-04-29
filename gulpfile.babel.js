@@ -41,7 +41,7 @@ const images = () => {
 };
 
 const build = () => {
-  return gulp.src(paths.src + '*.mjml')
+  return gulp.src(paths.src + 'index.mjml')
     .pipe(mjml())
     .on('error', notify.onError())
     .pipe(gulp.dest(paths.dist))
