@@ -52,6 +52,7 @@ const watch = () => {
   gulp.watch(paths.images.src, gulp.series(images, reload));
 }
 
+export const dist = gulp.series(clean, build, images);
 const dev = gulp.series(clean, build, images, serve, watch);
 
 export default dev;
