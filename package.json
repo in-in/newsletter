@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "gulp",
-    "images": "gulp images"
+    "dist": "gulp dist"
   },
   "license": "ISC",
   "devDependencies": {
