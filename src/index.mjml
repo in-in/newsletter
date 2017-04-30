@@ -16,7 +16,7 @@
       </mj-section>
       <mj-section>
         <mj-column width="100%">
-          <mj-image href="https://recast.ai/" src="assets/images/city-01.png" />
+          <mj-image href="https://recast.ai/" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/city-01.png" />
         </mj-column>
       </mj-section>
       <mj-section>
@@ -49,7 +49,7 @@
       <mj-section>
         <mj-column width="11%">
           <mj-image
-            src="assets/images/justine.png"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/justine.png"
             href="https://twitter.com/MrJustaine"
             width="70px"
             padding-right="0"
@@ -86,7 +86,7 @@
         </mj-column>
         <mj-column width="25%">
           <mj-image
-            src="assets/images/183.png"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/183.png"
             href="https://blog.recast.ai/module-faster-shadow/"
             width="100%"
           />
@@ -108,7 +108,7 @@
         </mj-column>
         <mj-column width="25%">
           <mj-image
-            src="assets/images/190.png"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/190.png"
             href="https://blog.recast.ai/module-faster-shadow/"
             width="100%"
           />
@@ -131,7 +131,7 @@
         </mj-column>
         <mj-column width="25%">
           <mj-image
-            src="assets/images/1891.png"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/1891.png"
             href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750"
             width="100%"
           />
@@ -154,7 +154,7 @@
         </mj-column>
         <mj-column width="25%">
           <mj-image
-            src="assets/images/184.jpg"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/184.jpg"
             href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/"
             width="100%"
           />
@@ -180,7 +180,7 @@
           <mj-image
             width="600px"
             padding-top="0"
-            src="assets/images/186.jpg"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/186.jpg"
             href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f" />
           <mj-text>
             <p style="font-size: 14px">
@@ -203,7 +203,7 @@
           <mj-image
             width="600px"
             padding-top="0"
-            src="assets/images/187.jpg"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/187.jpg"
             href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7" />
           <mj-text>
             <p style="font-size: 14px">
@@ -226,7 +226,7 @@
           <mj-image
             width="600px"
             padding-top="0"
-            src="assets/images/188.png"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/188.png"
             href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f" />
           <mj-text>
             <p style="font-size: 14px">
@@ -242,7 +242,7 @@
           <mj-image
             align="left"
             width="150px"
-            src="assets/images/recast-ai-01.png"
+            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/recast-ai-01.png"
             href="https://recast.ai/" />
         </mj-column>
         <mj-column width="35%">
@@ -250,27 +250,27 @@
             <tr>
               <td>
                 <a href="https://twitter.com/RecastAI">
-                  <img width="25px" src="assets/images/twitter.png" />
+                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/twitter.png" />
                 </a>
               </td>
               <td>
                 <a href="https://www.facebook.com/RecastAI/">
-                  <img width="25px" src="assets/images/facebook.png" />
+                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/facebook.png" />
                 </a>
               </td>
               <td>
                 <a href="https://medium.com/@RecastAI">
-                  <img width="25px" src="assets/images/medium.png" />
+                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/medium.png" />
                 </a>
               </td>
               <td>
                 <a href="https://www.youtube.com/channel/UCA0UZlR8crpgwFiVaSTbVWw">
-                  <img width="25px" src="assets/images/youtube.png" />
+                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/youtube.png" />
                 </a>
               </td>
               <td>
                 <a href="https://plus.google.com/+RecastAi">
-                  <img width="25px" src="assets/images/google.png" />
+                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/google.png" />
                 </a>
               </td>
             </tr>
