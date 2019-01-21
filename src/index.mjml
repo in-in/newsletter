@@ -16,7 +16,7 @@
       </mj-section>
       <mj-section>
         <mj-column width="100%">
-          <mj-image href="https://recast.ai/" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/city-01.png" />
+          <mj-image href="https://recast.ai/" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/city-01.png" />
         </mj-column>
       </mj-section>
       <mj-section>
@@ -35,7 +35,7 @@
           <mj-divider border-width="2px" border-color="#616161" width="45%" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section padding-top="30px">
         <mj-column width="100%">
           <mj-text>
@@ -45,17 +45,10 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="11%">
-          <mj-image
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/justine.png"
-            href="https://twitter.com/MrJustaine"
-            width="70px"
-            padding-right="0"
-            padding-left="25px"
-            align="left"
-          />
+          <mj-image src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/justine.png" href="https://twitter.com/MrJustaine" width="70px" padding-right="0" padding-left="25px" align="left" />
         </mj-column>
         <mj-column width="89%">
           <mj-text padding="0 25px">
@@ -68,13 +61,13 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="100%">
           <mj-divider mj-class="mailDivider" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="75%">
           <mj-text>
@@ -85,14 +78,10 @@
           </mj-text>
         </mj-column>
         <mj-column width="25%">
-          <mj-image
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/183.png"
-            href="https://blog.recast.ai/module-faster-shadow/"
-            width="100%"
-          />
+          <mj-image src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/183.png" href="https://blog.recast.ai/module-faster-shadow/" width="100%" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="75%">
           <mj-text>
@@ -107,21 +96,16 @@
           </mj-text>
         </mj-column>
         <mj-column width="25%">
-          <mj-image
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/190.png"
-            href="https://blog.recast.ai/module-faster-shadow/"
-            width="100%"
-          />
+          <mj-image src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/190.png" href="https://blog.recast.ai/module-faster-shadow/" width="100%" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="75%">
           <mj-text>
             <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
-              <a href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750" 
-              style="color: #3498DB; text-decoration: none;">
-                 Three challenges for artificial intelligence in medicine
+              <a href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750" style="color: #3498DB; text-decoration: none;">
+                Three challenges for artificial intelligence in medicine
               </a>
             </h3>
             <p style="font-size: 14px">
@@ -130,21 +114,16 @@
           </mj-text>
         </mj-column>
         <mj-column width="25%">
-          <mj-image
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/1891.png"
-            href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750"
-            width="100%"
-          />
+          <mj-image src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/1891.png" href="https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750" width="100%" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="75%">
           <mj-text>
             <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">
-              <a href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/" 
-              style="color: #3498DB; text-decoration: none;">
-                 How to choose the best channel for your bot: the ultimate cheat sheet
+              <a href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/" style="color: #3498DB; text-decoration: none;">
+                How to choose the best channel for your bot: the ultimate cheat sheet
               </a>
             </h3>
             <p style="font-size: 14px">
@@ -153,35 +132,26 @@
           </mj-text>
         </mj-column>
         <mj-column width="25%">
-          <mj-image
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/184.jpg"
-            href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/"
-            width="100%"
-          />
+          <mj-image src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/184.jpg" href="https://blog.recast.ai/how-to-choose-the-best-channel-for-your-bot-the-ultimate-cheat-sheet/" width="100%" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="100%">
           <mj-divider mj-class="mailDivider" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column>
           <mj-text padding-bottom="0">
             <h3 style="font-weight: bold">
-              <a href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f"
-                style="color: #3498DB; text-decoration: none;">
-              What are the differences between AI, machine learning, NLP, and deep learning?
+              <a href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f" style="color: #3498DB; text-decoration: none;">
+                What are the differences between AI, machine learning, NLP, and deep learning?
               </a>
             </h3>
           </mj-text>
-          <mj-image
-            width="600px"
-            padding-top="0"
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/186.jpg"
-            href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f" />
+          <mj-image width="600px" padding-top="0" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/186.jpg" href="https://www.forbes.com/sites/quora/2016/09/23/what-are-the-differences-between-ai-machine-learning-nlp-and-deep-learning/#43b30814274f" />
           <mj-text>
             <p style="font-size: 14px">
               So many big words in a booming market, let's take a step back and redefine which is what, and which does what.
@@ -189,22 +159,17 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column>
           <mj-text padding-bottom="0">
             <h3 style="font-weight: bold">
-              <a href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7"
-                style="color: #3498DB; text-decoration: none;">
-              The implications of AI on the future chatbots
+              <a href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7" style="color: #3498DB; text-decoration: none;">
+                The implications of AI on the future chatbots
               </a>
             </h3>
           </mj-text>
-          <mj-image
-            width="600px"
-            padding-top="0"
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/187.jpg"
-            href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7" />
+          <mj-image width="600px" padding-top="0" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/187.jpg" href="https://chatbotsmagazine.com/the-implications-of-a-i-on-the-future-chatbots-eaedaf20bfb7" />
           <mj-text>
             <p style="font-size: 14px">
               Artificial intelligence, machine learning, neural networks: how can they be used with chatbots? What does the future hold?
@@ -212,22 +177,17 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column>
           <mj-text padding-bottom="0">
             <h3 style="font-weight: bold">
-              <a href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f"
-                style="color: #3498DB; text-decoration: none;">
+              <a href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f" style="color: #3498DB; text-decoration: none;">
                 NLP and the coming content explosion
               </a>
             </h3>
           </mj-text>
-          <mj-image
-            width="600px"
-            padding-top="0"
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/188.png"
-            href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f" />
+          <mj-image width="600px" padding-top="0" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/188.png" href="https://chatbotsmagazine.com/nlp-and-the-coming-content-explosion-5ad45017f36f" />
           <mj-text>
             <p style="font-size: 14px">
               Natural language powered interfaces are taking the world by storm, and we can't help but wonder how they'll change the way we deliver, read and share content.
@@ -236,48 +196,44 @@
           <mj-divider mj-class="mailDivider" />
         </mj-column>
       </mj-section>
-      
+
       <mj-section>
         <mj-column width="65%">
-          <mj-image
-            align="left"
-            width="150px"
-            src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/recast-ai-01.png"
-            href="https://recast.ai/" />
+          <mj-image align="left" width="150px" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/recast-ai-01.png" href="https://recast.ai/" />
         </mj-column>
         <mj-column width="35%">
           <mj-table>
             <tr>
               <td>
                 <a href="https://twitter.com/RecastAI">
-                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/twitter.png" />
+                  <img width="25px" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/twitter.png" />
                 </a>
               </td>
               <td>
                 <a href="https://www.facebook.com/RecastAI/">
-                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/facebook.png" />
+                  <img width="25px" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/facebook.png" />
                 </a>
               </td>
               <td>
                 <a href="https://medium.com/@RecastAI">
-                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/medium.png" />
+                  <img width="25px" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/medium.png" />
                 </a>
               </td>
               <td>
                 <a href="https://www.youtube.com/channel/UCA0UZlR8crpgwFiVaSTbVWw">
-                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/youtube.png" />
+                  <img width="25px" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/youtube.png" />
                 </a>
               </td>
               <td>
                 <a href="https://plus.google.com/+RecastAi">
-                  <img width="25px" src="https://cdn.rawgit.com/in-in/newsletter/gh-pages/assets/images/google.png" />
+                  <img width="25px" src="https://raw.githubusercontent.com/in-in/newsletter/gh-pages/assets/images/google.png" />
                 </a>
               </td>
             </tr>
           </mj-table>
         </mj-column>
       </mj-section>
-      
+
     </mj-container>
   </mj-body>
 </mjml>
